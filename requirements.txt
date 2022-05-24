@@ -1,0 +1,3 @@
+# required for ImportError: cannot import name '_registerMatType' from 'cv2.cv2'
+opencv-python-headless==4.5.2.52
+git+https://github.com/albu/albumentations
